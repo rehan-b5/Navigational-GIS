@@ -16,7 +16,7 @@ The system integrates **shortest pathfinding, NP-hard courier routing, and inter
 - **Tech Stack:** **C++ (STL)**, **OSM API**, **GTK**, **Glade**, **Git**  
 - **Impact:** Ranked in the **top 10% of teams** by delivering a highly efficient, user-friendly GIS platform with advanced pathfinding features.  
 
-![System Diagram](./m1.png)
+![System Diagram](./assets/m1.png)
 ---
 
 ## 🧠 Technical Highlights  
@@ -59,8 +59,8 @@ The system integrates **shortest pathfinding, NP-hard courier routing, and inter
 ---
 
 ## 📸 Complete GIS  
-![System Diagram](./m2.png) 
-![System Diagram](./m3.png)  
+![System Diagram](./assets/m2.png) 
+![System Diagram](./assets/m3.png)  
 
 ## 🧩 Algorithms 
 - **Dijkstra:** Expands all reachable nodes until destination is reached.  
